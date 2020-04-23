@@ -5,7 +5,8 @@ function p(){
             $.ajaxSetup({
                 async: false
             });
-			
+            
+            
 			var releasedStages = 7;
 			
             $.getJSON("expedscorer.json", function(data) {

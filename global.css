@@ -2,12 +2,15 @@
 	cursor:hand;
 	cursor:pointer;
 }
+
 .clear {
 	clear:both !important;
 }
+
 .i18n {
 	visibility:hidden;
 }
+
 .xhidden {
 	display: none;
 }
