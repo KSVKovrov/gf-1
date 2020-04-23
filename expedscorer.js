@@ -7,7 +7,7 @@ function p(){
             });
             
             
-			var releasedStages = 10;
+			var releasedStages = 11;
 			
             $.getJSON("expedscorer.json", function(data) {
                 $.each(data.expeds, function(key, val) {
